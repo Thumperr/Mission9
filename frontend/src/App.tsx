@@ -19,7 +19,7 @@ const bandNames = [
   {
     name: 'Traffic',
     members: 'Steve Winwood, Jim Capaldi, Chris Wood, Dave Manson',
-    formed: '1967',
+    formed: 1967,
   },
 ];
 
